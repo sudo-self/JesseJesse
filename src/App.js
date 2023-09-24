@@ -87,7 +87,7 @@ class App extends Component {
 						fontWeight: "bolder",
 					}}
 				>
-					📋 List OF Things To DO! 
+					🇯🇷s To-Do List! 📝
 				</Row>
 
 				<hr />
@@ -95,7 +95,7 @@ class App extends Component {
 					<Col md={{ span: 5, offset: 4 }}>
 						<InputGroup className="mb-3">
 							<FormControl
-								placeholder="anything to do goes here . . . "
+								placeholder="add them here . . . "
 								size="lg"
 								value={this.state.userInput}
 								onChange={(item) =>
@@ -110,7 +110,7 @@ class App extends Component {
 									className="mt-2"
 									onClick={() => this.addItem()}
 								>
-									DO it!
+								 📍to-do
 								</Button>
 							</InputGroup>
 						</InputGroup>
@@ -135,11 +135,11 @@ class App extends Component {
 										<Button style={{marginRight:"10px"}}
 										variant = "light"
 										onClick={() => this.deleteItem(item.id)}>
-										Done!
+										☑️done!
 										</Button>
 										<Button variant = "light"
 										onClick={() => this.editItem(index)}>
-										add more..
+										add to it!
 										</Button>
 										</span>
 									</ListGroup.Item>
