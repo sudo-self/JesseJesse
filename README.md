@@ -1,6 +1,5 @@
 # <a href="https://to-do-list-rf6ycpeor-sudo-self.vercel.app">to-do-list</a>  <----Try me
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="511" alt="Screenshot 2023-09-24 at 5 30 26 PM" src="https://github.com/sudo-self/to-do-list/assets/119916323/744442e6-eedf-4576-be35-fde7033b2676">
 
 ## Available Scripts
 
