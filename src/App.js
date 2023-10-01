@@ -87,7 +87,7 @@ class App extends Component {
 						fontWeight: "bolder",
 					}}
 				>
-					🇯🇷s To-Do List! 📝
+					🇯🇷s To-Do List!  <center><a href="https://video.jessejesse.com">☎</a></center>
 				</Row>
 
 				<hr />
