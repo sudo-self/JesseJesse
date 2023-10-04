@@ -1,2 +1,2 @@
 # <a href="https://www.JesseJesse.com">JesseJesse.com</a>
-<img src="https://giphy.com/embed/0wmImzAkBKWfD0LFg1" width="480" height="358" frameBorder="0" class="giphy-embed"></img>
+![giphy](https://github.com/sudo-self/JesseJesse/assets/119916323/5b3686f1-a6f7-4c57-95aa-6862b10a0841)
