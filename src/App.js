@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        <code>JesseJesse.com</code>
+          <code>JesseJesse.com</code>
         </p>
         <a
           className="App-link"
-          href="https://list.JesseJesse.com"
+          href="https://list.jessejesse.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ENTER
+           ☎
         </a>
       </header>
     </div>
