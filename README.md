@@ -34,6 +34,9 @@ function App() {
 export default App;
 ...
 
+```
+## Git pull and push
+## App.js
 ```s
 git remote -v
 git remote add upstream https://github.com/sudo-self/jessejesse.git
@@ -41,4 +44,5 @@ git fetch upstream
 git checkout master
 git merge upstream/master
 git push
+
 ```
