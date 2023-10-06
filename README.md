@@ -33,3 +33,12 @@ function App() {
 
 export default App;
 ...
+
+```s
+git remote -v
+git remote add upstream https://github.com/sudo-self/jessejesse.git
+git fetch upstream
+git checkout master
+git merge upstream/master
+git push
+```
