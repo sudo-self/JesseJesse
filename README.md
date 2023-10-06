@@ -35,8 +35,7 @@ export default App;
 ...
 
 ```
-## Git pull and push
-## App.js
+## Git pull and push changes
 ```s
 git remote -v
 git remote add upstream https://github.com/sudo-self/jessejesse.git
